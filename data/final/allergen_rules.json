@@ -1,0 +1,12 @@
+{
+  "dairy": ["milk", "curd", "yogurt", "yoghurt", "paneer", "butter", "ghee", "cream", "cheese", "khoya", "mawa", "malai", "buttermilk", "condensed milk"],
+  "egg": ["egg", "eggs"],
+  "peanut": ["peanut", "groundnut", "moongphali"],
+  "tree_nut": ["cashew", "almond", "walnut", "pistachio", "pista", "hazelnut", "pine nut", "chironji"],
+  "gluten": ["wheat", "atta", "maida", "barley", "rava", "sooji", "semolina", "vermicelli", "bread", "noodle", "pasta"],
+  "soy": ["soy", "soya", "tofu"],
+  "fish": ["fish", "hilsa", "pomfret", "salmon", "tuna", "mackerel", "sardine", "rohu", "kite fish", "surmai"],
+  "shellfish": ["prawn", "shrimp", "crab", "lobster", "squid", "oyster", "mussel"],
+  "sesame": ["sesame", "til", "gingelly"],
+  "mustard": ["mustard seed", "rai", "sarson"]
+}

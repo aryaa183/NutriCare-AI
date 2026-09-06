@@ -1,0 +1,41 @@
+dish_id,dish_name,region,meal_type,veg_nonveg,calories_kcal,protein_g,carbs_g,fat_g,fiber_g,sodium_mg,sugar_g,gi_category,allergens,suitable_for,fasting_friendly
+D001,Moong Dal Cheela,North,Breakfast,Veg,180,10,22,5,4,220,2,Low,none,diabetes;weight_loss;general,no
+D002,Poha,West,Breakfast,Veg,250,5,45,6,3,300,3,Medium,none,general;weight_gain,no
+D003,Idli Sambar,South,Breakfast,Veg,190,7,35,2,3,280,2,Low,none,diabetes;weight_loss;heart_disease;general,no
+D004,Upma,South,Breakfast,Veg,230,6,38,6,3,260,2,Medium,gluten,general;weight_gain,no
+D005,Besan Cheela,North,Breakfast,Veg,200,9,20,8,3,240,2,Low,none,diabetes;weight_loss;general,no
+D006,Aloo Paratha,North,Breakfast,Veg,320,7,45,12,3,350,2,Medium,gluten;dairy,weight_gain;general,no
+D007,Sattu Paratha,East,Breakfast,Veg,300,12,40,9,5,320,2,Low,gluten,diabetes;weight_loss;general,no
+D008,Dhokla,West,Breakfast,Veg,160,6,25,4,2,300,3,Low,none,diabetes;weight_loss;general,no
+D009,Egg Bhurji,Pan-India,Breakfast,Egg,220,14,4,16,1,280,1,Low,egg,weight_gain;general,no
+D010,Kutttu Ki Puri,North,Breakfast,Veg,280,6,32,14,2,200,1,Medium,none,general,yes
+D011,Rajma Chawal,North,Lunch,Veg,420,15,65,8,10,380,3,Medium,none,general;weight_gain;heart_disease,no
+D012,Sambar Rice,South,Lunch,Veg,380,10,68,6,7,350,3,Medium,none,diabetes;heart_disease;general,no
+D013,Chole,North,Lunch,Veg,400,14,55,12,9,420,4,Medium,none,general;weight_gain,no
+D014,Palak Paneer,North,Lunch,Veg,350,16,12,25,4,400,3,Low,dairy,diabetes;general,no
+D015,Bhindi Masala,North,Lunch,Veg,180,4,15,11,4,280,3,Low,none,diabetes;weight_loss;general,no
+D016,Fish Curry,East,Lunch,Non-Veg,320,28,10,18,2,450,2,Low,fish,weight_loss;heart_disease;general,no
+D017,Chicken Curry,Pan-India,Lunch,Non-Veg,380,30,8,24,2,480,2,Low,none,weight_gain;general,no
+D018,Dal Tadka,North,Lunch,Veg,220,12,30,6,6,300,2,Low,none,diabetes;weight_loss;general;heart_disease,no
+D019,Curd Rice,South,Lunch,Veg,280,7,45,7,2,220,4,Medium,dairy,general;diabetes,no
+D020,Baingan Bharta,North,Lunch,Veg,160,4,16,9,5,260,3,Low,none,diabetes;weight_loss;general,no
+D021,Kadhi Chawal,West,Lunch,Veg,300,9,42,10,3,380,4,Medium,dairy,general,no
+D022,Paneer Bhurji,North,Lunch,Veg,300,18,8,22,2,350,2,Low,dairy,diabetes;general,no
+D023,Ragi Mudde,South,Lunch,Veg,210,6,42,2,6,180,1,Low,none,diabetes;weight_loss;general,no
+D024,Litti Chokha,East,Lunch,Veg,340,10,50,10,6,300,2,Medium,gluten,general;weight_gain,no
+D025,Roti Sabzi Combo,North,Dinner,Veg,300,9,45,8,6,280,2,Medium,gluten,general;diabetes,no
+D026,Khichdi,Pan-India,Dinner,Veg,250,8,42,5,4,250,2,Low,none,diabetes;weight_loss;general;heart_disease,no
+D027,Grilled Fish,South,Dinner,Non-Veg,280,30,2,16,0,380,0,Low,fish,weight_loss;heart_disease;general,no
+D028,Vegetable Soup,Pan-India,Dinner,Veg,120,4,18,3,4,300,3,Low,none,diabetes;weight_loss;general,no
+D029,Tandoori Chicken,North,Dinner,Non-Veg,320,35,5,17,1,450,1,Low,none,weight_loss;weight_gain;general,no
+D030,Palak Dal,North,Dinner,Veg,210,11,28,6,6,280,2,Low,none,diabetes;weight_loss;general;heart_disease,no
+D031,Mixed Veg Curry,Pan-India,Dinner,Veg,190,5,25,8,5,260,3,Low,none,diabetes;weight_loss;general,no
+D032,Egg Curry,Pan-India,Dinner,Egg,260,16,10,18,2,380,2,Low,egg,weight_gain;general,no
+D033,Sabudana Khichdi,West,Dinner,Veg,280,4,45,10,1,200,3,Medium,none,general,yes
+D034,Roasted Makhana,Pan-India,Snack,Veg,120,4,18,3,3,150,1,Low,none,diabetes;weight_loss;general,yes
+D035,Sprouts Salad,Pan-India,Snack,Veg,140,9,20,2,6,120,3,Low,none,diabetes;weight_loss;general;heart_disease,no
+D036,Peanut Chikki,North,Snack,Veg,220,6,24,12,2,60,18,High,nuts,weight_gain,no
+D037,Banana,Pan-India,Snack,Veg,105,1,27,0,3,1,14,Medium,none,general;weight_gain,yes
+D038,Buttermilk,South,Snack,Veg,60,3,5,2,0,150,3,Low,dairy,diabetes;weight_loss;general;heart_disease,yes
+D039,Roasted Chana,North,Snack,Veg,180,10,25,4,7,100,1,Low,none,diabetes;weight_loss;general,no
+D040,Fruit Chaat,Pan-India,Snack,Veg,140,2,32,1,4,50,20,Medium,none,general,yes
